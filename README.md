@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-a-s-h-e-d&layout=compact&theme=tokyonight)](https://github.com/m-a-s-h-e-d/github-readme-stats)
 
 <h1 align="center">Hey there! I'm Jacky 👋 </h1>
-<h3 align="center"🎇 Software Developer | Graphics Designer | Gamer 🎇</h3>
+<h3 align="center">🎇 Software Developer | Graphics Designer | Gamer 🎇</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
