@@ -13,7 +13,7 @@
   - 🎓 &nbsp; Studying Computer Science at British Columbia Institute of Technology.
   - 💼 &nbsp; I’m currently working on Unity projects.
   - 🌱 &nbsp; Learning more about Unity and Game Development.
-  - ✍️ &nbsp; Pursuing Digital Arts as hobbies/side hustles.  
+  - ✍️ &nbsp; Discovering digital art and media as hobbies.
 </div> 
 </div>
 
