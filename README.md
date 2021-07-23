@@ -1,7 +1,3 @@
-![Mashed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-a-s-h-e-d&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-a-s-h-e-d&layout=compact&theme=tokyonight)](https://github.com/m-a-s-h-e-d/github-readme-stats)
-
 <h1 align="center">Hey there! I'm Jacky 👋 </h1>
 <h3 align="center">🎇 Software Developer | Graphics Designer | Aspiring Game Developer 🎇</h3>
 <div>
@@ -17,8 +13,11 @@
 </div> 
 </div>
 
+![Mashed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-a-s-h-e-d&show_icons=true&theme=tokyonight)
+
 <div>
   <h3> 💻 Languages and Tools </h3>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-a-s-h-e-d&layout=compact&theme=tokyonight)](https://github.com/m-a-s-h-e-d/github-readme-stats)
   <p>
 (Will complete soon)
     <!--
