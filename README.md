@@ -18,7 +18,9 @@
 <div>
   <h3> 💻 Languages and Tools </h3>
 </div>
-![Top Langs][(https://github-readme-stats.vercel.app/api/top-langs/?username=m-a-s-h-e-d&layout=compact&theme=tokyonight)](https://github.com/m-a-s-h-e-d/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-a-s-h-e-d&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
   <p>
 (Will complete soon)
