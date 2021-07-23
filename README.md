@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Mashed's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-a-s-h-e-d&show_icons=true&theme=tokyonight)
+
 <!--
 **m-a-s-h-e-d/m-a-s-h-e-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
