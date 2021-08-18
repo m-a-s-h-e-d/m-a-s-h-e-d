@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Jacky 👋 </h1>
 <h3 align="center">🎇 Software Developer | Graphics Designer | Aspiring Game Developer 🎇</h3>
 <div>
-<img width = "250px" align="right" alt="PIC" height="250px" src="https://jackytsoi.ca/resources/images/logo_dark.png" />
+<img width = "250px" align="right" alt="PIC" height="250px" src="https://i.imgur.com/5PEASqr.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
