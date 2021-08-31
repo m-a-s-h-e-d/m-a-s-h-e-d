@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Jacky 👋 </h1>
 <h3 align="center">🎇 Software Developer | Graphics Designer | Aspiring Game Developer 🎇</h3>
 <div>
-<img width = "100vw" align="right" alt="PIC" height="100vw" src="https://i.imgur.com/5PEASqr.png" />
+<img width = "10%" align="right" alt="PIC" height="10%" src="https://i.imgur.com/5PEASqr.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
