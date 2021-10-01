@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Jacky 👋 </h1>
-<h3 align="center">🎇 Software Developer | Graphics Designer | Aspiring Game Developer 🎇</h3>
+<h3 align="center">🎇 Software Developer | Graphics Designer | Game Developer 🎇</h3>
 <div>
 <img width = "25%" align="right" alt="PIC" height="25%" src="https://i.imgur.com/5PEASqr.png" />
 <div align="left"> 
