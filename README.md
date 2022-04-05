@@ -6,7 +6,6 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring different ways to utilize my knowledge to create unique things.
-  - 🎓 &nbsp; Studying Computer Science at British Columbia Institute of Technology.
   - 💼 &nbsp; I’m currently working on Discord bots and Unity games.
   - 🌱 &nbsp; Learning more about Design Patterns and Game Development.
   - ✍️ &nbsp; Discovering digital art and media as hobbies.
