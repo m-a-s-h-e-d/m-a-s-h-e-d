@@ -7,7 +7,6 @@
 
   - 🤔 &nbsp; Exploring different ways to utilize my knowledge to create unique things.
   - 💼 &nbsp; I’m currently working on Discord bots and micro services.
-  - 🌱 &nbsp; Learning more about Design Patterns and Game Development.
   - ✍️ &nbsp; Discovering digital art and media as hobbies.
 </div> 
 </div>
