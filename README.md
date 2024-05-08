@@ -4,9 +4,9 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🤔 &nbsp; Exploring different ways to utilize my knowledge to create unique things.
-  - 💼 &nbsp; I’m currently working on Discord bots and micro services.
-  - ✍️ &nbsp; Discovering digital art and media as hobbies.
+  - 🤔 &nbsp; Exploring different ways to utilize my knowledge to create unique things
+  - 💼 &nbsp; Working on my new ![Project Hub](https://mattari.dev)
+  - ✍️ &nbsp; Learning cool full stack web technologies
 </div> 
 </div>
 
