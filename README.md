@@ -8,6 +8,7 @@
   - 🤔 &nbsp; Creating backend servers, databases, and pipelines
   - 💼 &nbsp; Working on my new [Project Hub](https://mattari.dev)
   - ✍️ &nbsp; Playing around with Angular + ASP.NET Core
+  - 💻 &nbsp; C#, TypeScript, and Python are my primary languages
 </div> 
 </div>
 
