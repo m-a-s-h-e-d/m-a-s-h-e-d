@@ -1,12 +1,13 @@
 <h1 align="center">Hey there! I'm Mashed 👋 </h1>
-<h3 align="center">🎇 Software Developer | Graphics Designer | Game Developer 🎇</h3>
+<h3 align="center">🎇 Software Engineer | Graphics Designer 🎇</h3>
 <div>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
+  I am a software engineer with a strong interest in backend development. Frontend is pretty fun to mess around with from time to time as well.
 
-  - 🤔 &nbsp; Exploring different ways to utilize my knowledge to create unique things
+  - 🤔 &nbsp; Creating backend servers, databases, and pipelines
   - 💼 &nbsp; Working on my new [Project Hub](https://mattari.dev)
-  - ✍️ &nbsp; Learning cool full stack web technologies
+  - ✍️ &nbsp; Playing around with Angular + ASP.NET Core
 </div> 
 </div>
 
