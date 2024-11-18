@@ -3,8 +3,8 @@
 <div>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
-  I am a software engineer with a strong interest in backend development. Frontend is pretty fun to mess around with from time to time as well.
-
+  <p>I am a software engineer with a strong interest in backend development. Frontend is pretty fun to mess around with from time to time as well.</p>
+  
   - 🤔 &nbsp; Creating backend servers, databases, and pipelines
   - 💼 &nbsp; Working on my new [Project Hub](https://mattari.dev)
   - ✍️ &nbsp; Playing around with Angular + ASP.NET Core
