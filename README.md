@@ -3,11 +3,11 @@
 <div>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
-  <p>I am a software engineer with a strong interest in backend development. Frontend is pretty fun to mess around with from time to time as well.</p>
+  <p>Backend Software Engineer. Capable in Frontend Development (React, Angular)</p>
   
   - 🤔 &nbsp; Creating backend servers, databases, and pipelines
   - 💼 &nbsp; Working on my new [Project Hub](https://mattari.dev)
-  - ✍️ &nbsp; Playing around with Angular + ASP.NET Core
+  - ✍️ &nbsp; Ricing on Hyprland
   - 💻 &nbsp; C#, TypeScript, and Python are my primary languages
 </div> 
 </div>
