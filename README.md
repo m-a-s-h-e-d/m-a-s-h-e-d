@@ -3,7 +3,7 @@
 <div>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
-  <p>Backend Software Engineer. Capable in Frontend Development (React, Angular)</p>
+  <p>Linux Enjoyer. Backend Software Engineer. Capable in Frontend Development (React, Angular)</p>
   
   - 🤔 &nbsp; Creating backend servers, databases, and pipelines
   - 💼 &nbsp; Working on my new [Project Hub](https://mattari.dev)
